@@ -1,3 +1,4 @@
 # gitflow-curso
+This is course about Git and Github
 
-ff
+The version of the repository is V1.1
